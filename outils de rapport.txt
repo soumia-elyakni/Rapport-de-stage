@@ -1,0 +1,29 @@
+acteurs 
+
+visiteurs
+user 
+seller
+customer 
+
+
+mes tâches :
+landing page footer 
+landing page fisrt verion
+
+settings account navbar sidebars routing profil password 
+
+notifications dropdown tools (ngx, function stoppropagation(), pills)
+
+outils : Angular, framwork css (bootstrap 5), backend NestJs, 
+
+instamation d'envirenement de travail : npm, 
+premier etape : installer nodeJs 
+2 : npm install -g @angular/cli
+    ng new "non d'application"
+    ng serve 
+3 : 
+agular essentials
+angular Mat
+
+4 :
+ cmd de creation des components
